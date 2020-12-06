@@ -1,0 +1,12 @@
+{
+  "name": "pte-app",
+  "displayName": "pte-app",
+  "expo": {
+    "name": "pte-app",
+    "slug": "pte-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
